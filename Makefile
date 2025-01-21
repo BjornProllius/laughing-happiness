@@ -1,2 +1,2 @@
 all:
-	gcc -o main fixed.c
+	gcc -o main sim2.c
